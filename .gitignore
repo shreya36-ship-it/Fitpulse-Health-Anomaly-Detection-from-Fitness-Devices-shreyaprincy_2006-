@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Ignore folders
+fitpulse/
+Fitpulse-Health-Anomaly-Detection-from-Fitness-Devices-shreyaprincy_2006/
+
+# Ignore specific files
+bhd.py/
+
+# Ignore datasets (large files)
+
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+desktop.ini/
